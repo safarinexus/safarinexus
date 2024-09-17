@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **safarinexus/safarinexus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://media.giphy.com/media/EPELLY0pZ8mGuSgTCG/giphy.gif?cid=790b7611jm8rfixn0v0mw9x8i11pj7r1vz5u4iv7pafsr0sd&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" />
+<img src="https://media.giphy.com/media/7BZL5xIFVj6nH59xTX/giphy.gif)" width="100%" />
+## Hi there, I'm Edgar 👋
