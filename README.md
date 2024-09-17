@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Uploading 13666.gif…]()
+![13666](https://github.com/user-attachments/assets/ef828690-81bb-4e78-b591-d36d02e13739)
