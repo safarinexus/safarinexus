@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/7BZL5xIFVj6nH59xTX/giphy.gif" width="100%" />
 
 <h2 width="100%" align="center">Hi there! I'm Edgar 👋</h2>
----
 <p width="100%" align="center">Former Accountancy Major, Aspiring Software Engineer.</p>
