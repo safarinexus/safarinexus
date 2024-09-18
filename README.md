@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- Header Photo -->
 <img src="./assets/safarinexus.gif" width="100%" />
 <!-- Hi there header -->
-<h2 align=center>Hi there! I'm Edgar <img src="./assets/wave.gif" width="20"/></h2>
+<h2 align=center>Hi there! I'm <a href="https://edgr.vercel.app">Edgar</a><img src="./assets/wave.gif" width="20"/></h2>
 <details>
   <summary>Boo!</summary>
 <!--animated header graphic open-->
