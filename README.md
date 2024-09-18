@@ -43,3 +43,9 @@ Here are some ideas to get you started:
 
 <h2>About Me</h2>
 
+<div align="center">
+	<br>
+		<img src="./assets/header.svg" width="800" height="400">
+	<br>
+</div>
+
