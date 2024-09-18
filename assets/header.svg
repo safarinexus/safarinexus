@@ -45,7 +45,8 @@
 						Arial,
 						sans-serif,
 						'Apple Color Emoji',
-						'Segoe UI Emoji';
+						'Segoe UI Emoji', 
+						'Space Mono',
 					display: flex;
 					flex-direction: column;
 					align-items: center;
@@ -77,6 +78,7 @@
 
 				p {
 					font-size: 20px;
+					font-family: 'Space Mono';
 					text-shadow: 0 1px 0 #efefef;
 					animation: 5s ease 0s normal forwards 1 fadeIn;
 				}
