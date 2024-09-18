@@ -45,7 +45,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 	<br>
-		<img src="./assets/header.svg" width="800" height="400">
+        <a href="edgargarteong@gmail.com">
+		    <img src="./assets/header.svg" width="800" height="400">
+        </a>
 	<br>
 </div>
 
