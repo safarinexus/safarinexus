@@ -51,32 +51,45 @@ src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c913163
 <table>
 	<tr>
 		<td>
-			<h4>Frontend</h4>
+            <a href="https://en.wikipedia.org/wiki/Front-end_web_development">
+			    <h4>Frontend</h4>
+            </a>
 		</td>
   		<td>
+            <
 			<div>  
-				<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,&perline=5" /> 
+                <a href="https://en.wikipedia.org/wiki/Front-end_web_development">
+				    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,&perline=5" />
+                </a> 
 			</div>
 		</td>
 	</tr>
  	<tr>
 		<td>
-			<h4>Backend</h4>
+            <a href="https://en.wikipedia.org/wiki/Frontend_and_backend#Backend_focused">
+			    <h4>Backend</h4>
+            </a> 
 		</td>
   		<td>
 			<div>  
-				<img src="https://skillicons.dev/icons?i=c,cpp,java,python,flask,nodejs,express,bash,php,postgres,prisma,sqlite,redis,&perline=5" />
+                <a href="https://en.wikipedia.org/wiki/Frontend_and_backend#Backend_focused">
+				    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,flask,nodejs,express,bash,php,postgres,prisma,sqlite,redis,&perline=5" />
+                </a> 
 			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<h4>Dev Tools</h4>
+            <a href="https://en.wikipedia.org/wiki/Programming_tool">
+			    <h4>Dev Tools</h4>
+            </a>
 		</td>
   		<td>
 			<div>  
-				<img
-src="https://skillicons.dev/icons?i=git,npm,bun,figma,vscode,vercel,heroku,latex,postman,vite,vitest,webpack,jest,&perline=5" />
+                <a href="https://en.wikipedia.org/wiki/Programming_tool">
+                    <img
+    src="https://skillicons.dev/icons?i=git,npm,bun,figma,vscode,vercel,heroku,latex,postman,vite,vitest,webpack,jest,&perline=5" />
+                </a>
 			</div>
 		</td>
 	</tr>
