@@ -20,13 +20,6 @@ Here are some ideas to get you started:
 <!--animated header graphic open-->
 <img 
 src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c91316391381cefc5e0c9b309a75fba/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3131302673656374696f6e3d686561646572" width="100%"/>
-<!--profile view badge--> 
-<div width="100%" align=center>
-	<a href="https://github.com/safarinexus">
-		<img src="https://komarev.com/ghpvc/?username=safarinexus&color=ff69b4"/>
-	</a>
-</div>
-<br>
 <!-- ASCII Art -->
 <pre>
  ___  ___   _______    ___        ___        ________           ___       __    ________   ________   ___        ________   ___       
@@ -43,6 +36,12 @@ src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c913163
 <!--Animated text--> 
 <div width=100% align=center> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&duration=2000&color=00A91A&center=true&vCenter=true&random=true&width=250&lines=Software+Engineer;Fullstack+Developer;Former+Accountant;Coffee+Enthusiast;Keyboard+Enthusiast;Avid+Reader;Self-Taught" alt="Typing SVG" /></a>
+</div>
+<!--profile view badge--> 
+<div width="100%" align=center>
+	<a href="https://github.com/safarinexus">
+		<img src="https://komarev.com/ghpvc/?username=safarinexus&color=ff69b4"/>
+	</a>
 </div>
 <!--About me Header-->
 <h2><img src="./assets/coffee.gif" width="20px" height="20px"> About Me</h2>
