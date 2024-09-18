@@ -65,7 +65,7 @@ src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c913163
 		</td>
   		<td>
 			<div>  
-				<img src="https://skillicons.dev/icons?i=c,cpp,java,python,flask,nodejs,express,bash,php,postgres,prisma,sqlite,&perline=5" /> 
+				<img src="https://skillicons.dev/icons?i=c,cpp,java,python,flask,nodejs,express,bash,php,postgres,prisma,sqlite,redis,&perline=5" />
 			</div>
 		</td>
 	</tr>
@@ -75,7 +75,8 @@ src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c913163
 		</td>
   		<td>
 			<div>  
-				<img 		src="https://skillicons.dev/icons?i=git,npm,bun,figma,vscode,vercel,heroku,latex, postman,vite,vitest,webpack,&perline=5" />  
+				<img
+src="https://skillicons.dev/icons?i=git,npm,bun,figma,vscode,vercel,heroku,latex,postman,vite,vitest,webpack,jest,&perline=5" />
 			</div>
 		</td>
 	</tr>
