@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 <img src="./assets/safarinexus.gif" width="100%" />
 <!-- Hi there header -->
 <h2 align=center>Hi there! I'm Edgar <img src="./assets/wave.gif" width="20"/></h2>
+<details>
+  <summary>Boo!</summary>
 <!--animated header graphic open-->
 <img 
 src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c91316391381cefc5e0c9b309a75fba/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3131302673656374696f6e3d686561646572" width="100%"/>
@@ -100,4 +102,4 @@ src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c913163
     <a target="_blank" href="mailto:edgargarteong@gmail.com"><img src="https://img.shields.io/badge/-edgargarteong@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
     <a href="https://leetcode.com/u/safarinexus/" target="_blank"><img src="https://img.shields.io/badge/-safarinexus-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
 </div>
-
+</details>
