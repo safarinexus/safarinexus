@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <img src="./assets/safarinexus.gif" width="100%" />
 
-<h2 width="100%" align="center">Hi there! I'm Edgar</h2><img src="./assets/wave.gif" width="48" />
+<h2 width="100%" align="center">Hi there! I'm Edgar<img src="./assets/wave.gif" width="48" /></h2>
 <!--<p width="100%" align="center">Former Accountancy Major, Self-Taught & Aspiring Software Engineer.</p>-->
 
 <pre align="center">
