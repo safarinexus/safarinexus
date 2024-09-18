@@ -41,8 +41,6 @@ Here are some ideas to get you started:
 
 </pre>
 
-<h2>About Me</h2>
-
 <h2></h2>
 <div align="center">
 	<br>
