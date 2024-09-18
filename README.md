@@ -96,11 +96,7 @@ src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c913163
 <div align="center">
 	<br>
         <a href="mailto:edgargarteong@gmail.com">
-		    <img src="./assets/header.svg" width="800" height="400">
+		    <img src="./assets/header.svg" width="60%">
         </a>
 	<br>
-</div>
-<!--Bottom text-->
-<div align="center" valign="bottom">
-	<p valign="bottom">⬇️ And check out my repos below! ⬇️</p>
 </div>
