@@ -43,3 +43,12 @@ Here are some ideas to get you started:
 
 <h2>About Me</h2>
 
+<h2></h2>
+<div align="center">
+  <br>
+    <a href="edgargarteong@gmail.com">
+      <img src="./assets/header.svg" width="800" height="400">
+    </a>
+	 <br>
+</div>
+
