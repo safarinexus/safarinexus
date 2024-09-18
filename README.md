@@ -51,7 +51,7 @@ src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c913163
 <!--learnt subpoint--> 
 <h6>📝 What I've learnt:</h6>
 <ul> 
-	<li>Fullstack Web development through <a href="https://www.theodinproject.com">The Odin Project</a></li>
+	<li>Full Stack Web Development through <a href="https://www.theodinproject.com">The Odin Project</a></li>
 	<li>See the rest of the technologies I've learnt <a href="https://github.com/safarinexus#-technologies">below</a></li>
 </ul>
 <!--learning subpoint-->
@@ -91,7 +91,7 @@ src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c913163
 <!-- Animated contact me -->
 <div align="center">
         <a href="mailto:edgargarteong@gmail.com">
-		    <img src="./assets/graphic.svg" width="75%">
+		    <img src="./assets/contact-graphic.svg" width="75%">
         </a>
 </div>
 <!--social media link badges--> 
