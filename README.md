@@ -35,25 +35,29 @@ src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c913163
                                                          \|___|/                                                                 \|__|
                                                                                                                                                                               
 </pre>
+<!--Animated text--> 
+<div width=100% align=center> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&duration=2000&color=00A91A&center=true&vCenter=true&random=true&width=250&lines=Software+Engineer;Fullstack+Developer;Former+Accountant;Coffee+Enthusiast;Keyboard+Enthusiast;Avid+Reader;Self-Taught" alt="Typing SVG" /></a>
+</div>
 <!--About me Header-->
 <h2><img src="./assets/coffee.gif" width="20px" height="20px"> About Me</h2>
 <!-- Technologies Point-->
-<h6><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="10px" height="10px"> Technologies</h6>
+<h4><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="10px" height="10px"> Technologies</h4>
 <!-- Technologies Icons-->
 <ul>
 	<li>Frontend:<br>
 		<a href="https://en.wikipedia.org/wiki/Front-end_web_development">
-			<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react" />
+			<img height="40px" src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react" />
                 </a> 
 	</li>
 	<li>Backend:<br>
 		<a href="https://en.wikipedia.org/wiki/Frontend_and_backend#Backend_focused">
-				    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,flask,nodejs,express,bash,php,postgres,prisma,sqlite,redis" />
+		    <img height="40px" src="https://skillicons.dev/icons?i=c,cpp,java,python,flask,nodejs,express,bash,php,postgres,prisma,sqlite,redis" />
                 </a> 
 	</li>
 	<li>Developer Tools:<br>
 		<a href="https://en.wikipedia.org/wiki/Programming_tool">
-                    <img
+                    <img height="40px"
     src="https://skillicons.dev/icons?i=git,npm,bun,figma,vscode,vercel,heroku,latex,postman,vite,vitest,webpack,jest" />
                 </a>
 	</li>
