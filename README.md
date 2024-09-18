@@ -90,6 +90,7 @@ src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c913163
 </ul>
 <!--animated header graphic ending-->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
+<h1></h1>
 <!-- Animated contact me -->
 <div align="center">
         <a href="mailto:edgargarteong@gmail.com">
