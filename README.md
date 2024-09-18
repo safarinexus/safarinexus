@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <!-- Header Photo -->
+<a href="https://edgr.vercel.app">
 <img src="./assets/safarinexus.gif" width="100%" />
+</a>
 <!-- Hi there header -->
 <h2 align=center>Hi there! I'm <a href="https://edgr.vercel.app">Edgar</a><img src="./assets/wave.gif" width="20"/></h2>
 <!--profile view badge--> 
