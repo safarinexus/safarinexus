@@ -53,7 +53,7 @@ src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c913163
 <!--learnt subpoint--> 
 <h6>📝 What I've learnt:</h6>
 <ul> 
-	<li>Full Stack Web Development through <a href="https://www.theodinproject.com">The Odin Project</a></li>
+	<li>Full Stack Web Development through <a href="https://github.com/safarinexus/odin_projects">The Odin Project</a></li>
 	<li>See the rest of the technologies I've learnt <a href="https://github.com/safarinexus#-technologies">below</a></li>
 </ul>
 <!--learning subpoint-->
