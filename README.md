@@ -47,55 +47,51 @@ src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c913163
 </pre>
 <!-- Technologies Header -->
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px" height="25px"> Technologies</h1>
+<!--Github Programming Languages Stats-->
+<div align=center>
+	<a href="https://github.com/safarinexus">
+	        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=safarinexus&langs_count=12&layout=compact&langs_count=8&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
+	</a>
+</div>
 <!-- Technologies Icons-->
-<table>
+<table width="50%" align="center">
 	<tr>
 		<td>
-            <a href="https://en.wikipedia.org/wiki/Front-end_web_development">
 			    <h4>Frontend</h4>
-            </a>
 		</td>
-  		<td>
-            <
-			<div>  
-                <a href="https://en.wikipedia.org/wiki/Front-end_web_development">
-				    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,&perline=5" />
-                </a> 
-			</div>
+		<td>
+			    <h4>Backend</h4>
+		</td>
+		<td>
+			    <h4>Dev Tools</h4>
 		</td>
 	</tr>
  	<tr>
-		<td>
-            <a href="https://en.wikipedia.org/wiki/Frontend_and_backend#Backend_focused">
-			    <h4>Backend</h4>
-            </a> 
+		<td valign="top">
+			<div>  
+                		<a href="https://en.wikipedia.org/wiki/Front-end_web_development">
+				    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,&perline=6" />
+                		</a> 
+			</div>
 		</td>
   		<td>
 			<div>  
-                <a href="https://en.wikipedia.org/wiki/Frontend_and_backend#Backend_focused">
-				    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,flask,nodejs,express,bash,php,postgres,prisma,sqlite,redis,&perline=5" />
-                </a> 
+                		<a href="https://en.wikipedia.org/wiki/Frontend_and_backend#Backend_focused">
+				    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,flask,nodejs,express,bash,php,postgres,prisma,sqlite,redis,&perline=6" />
+                		</a> 
 			</div>
 		</td>
-	</tr>
-	<tr>
 		<td>
-            <a href="https://en.wikipedia.org/wiki/Programming_tool">
-			    <h4>Dev Tools</h4>
-            </a>
-		</td>
-  		<td>
 			<div>  
                 <a href="https://en.wikipedia.org/wiki/Programming_tool">
                     <img
-    src="https://skillicons.dev/icons?i=git,npm,bun,figma,vscode,vercel,heroku,latex,postman,vite,vitest,webpack,jest,&perline=5" />
+    src="https://skillicons.dev/icons?i=git,npm,bun,figma,vscode,vercel,heroku,latex,postman,vite,vitest,webpack,jest,&perline=6" />
                 </a>
 			</div>
 		</td>
 	</tr>
 </table>
-
-<h2></h2>
+<h1></h1>
 <!-- Animated contact me -->
 <div align="center">
 	<br>
@@ -104,5 +100,7 @@ src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c913163
         </a>
 	<br>
 </div>
-
-
+<!--Bottom text-->
+<div align="center" valign="bottom">
+	<p valign="bottom">⬇️ And check out my repos below! ⬇️</p>
+</div>
