@@ -94,9 +94,7 @@ src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c913163
 <h1></h1>
 <!-- Animated contact me -->
 <div align="center">
-	<br>
         <a href="mailto:edgargarteong@gmail.com">
-		    <img src="./assets/header.svg" width="60%">
+		    <img src="./assets/header.svg" width="75%">
         </a>
-	<br>
 </div>
