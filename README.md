@@ -95,3 +95,9 @@ src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c913163
         </a>
 </div>
 <!--social media link badges--> 
+<div align="center">
+    <a href="https://www.linkedin.com/in/edgarteong/" target="_blank"><img src="https://img.shields.io/badge/-Edgar%20Teong-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a target="_blank" href="mailto:edgargarteong@gmail.com"><img src="https://img.shields.io/badge/-edgargarteong@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://leetcode.com/u/safarinexus/" target="_blank"><img src="https://img.shields.io/badge/-safarinexus-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
+</div>
+
