@@ -52,9 +52,10 @@ src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c913163
                 </a> 
 	</li>
 	<li>Developer Tools:<br>
-		<a href="https://en.wikipedia.org/wiki/Frontend_and_backend#Backend_focused">
-				    <img height="30px" src="https://skillicons.dev/icons?i=c,cpp,java,python,flask,nodejs,express,bash,php,postgres,prisma,sqlite,redis" />
-                		</a> 
+		<a href="https://en.wikipedia.org/wiki/Programming_tool">
+                    <img
+    src="https://skillicons.dev/icons?i=git,npm,bun,figma,vscode,vercel,heroku,latex,postman,vite,vitest,webpack,jest" />
+                </a>
 	</li>
 </ul>
 <h1></h1>
