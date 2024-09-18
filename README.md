@@ -43,7 +43,24 @@ src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c913163
 <h2><img src="./assets/coffee.gif" width="20px" height="20px"> About Me</h2>
 <!--Background Point-->
 <h4><img src="./assets/background.gif" width="10px" height="10px"> Background</h4>
-<p>I am a Singapore Management University (SMU) graduate with the wrong degree (accountancy), now am Aspiring Software Engineer (Full-stack or Backend), because I really really love all things 💻 computers and technology and programming! I also really love ☕️ coffee , ⌨ mechanical keyboards, 📚 non-fiction books, 🏃🏻 running, 🧥 fashion  and 🧠 psychology.</p>
+<p>I am a Singapore Management University (SMU) graduate with the wrong degree (accountancy), now I'm an aspiring Software Engineer (Full-stack or Backend), because I truly love all things 💻 computers and technology and programming! Ever since realising I did not want to pursue accounting as a career, I've taught myself programming, development, as well as computer science fundamentals. I also really love ☕️ coffee , ⌨ mechanical keyboards, 📚 non-fiction books, 🏃🏻 running, 🧥 fashion  and 🧠 psychology.</p>
+<!--learnt subpoint--> 
+<h6>📝 What I've learnt:</h6>
+<ul> 
+	<li>Fullstack Web development through <a href="https://www.theodinproject.com">The Odin Project</a></li>
+	<li>See the rest of the technologies I've learnt <a href="https://github.com/safarinexus#-technologies">below</a></li>
+</ul>
+<!--learning subpoint-->
+<h6>🛠️ What I'm currently learning:</h6>
+<ul> 
+	<li>CI/CD, Containerization and React Native through <a href="https://fullstackopen.com/en/">Full Stack Open</a></li>
+	<li>CS Theory, through <a href="https://teachyourselfcs.com/">teachyourselfcs.com</a></li>
+</ul>
+<!--made subpoint--> 
+<h6>🪛 What I've made, all through my own learning:</h6>
+<ul>
+	<li>(Check out my repos <a href="https://github.com/safarinexus?tab=repositories">here!</a>)</li>
+</ul>
 <!-- Technologies Point-->
 <h4><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="10px" height="10px"> Technologies</h4>
 <!-- Technologies Icons-->
