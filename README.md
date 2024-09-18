@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://media.giphy.com/media/FiE24Q1e56IXm1Xnhy/giphy.gif" width="100%" />
+<img src="./assets/safarinexus.gif" width="100%" />
 
-<h2 width="100%" align="center">Hi there! I'm Edgar 👋</h2>
+<h2 width="100%" align="center">Hi there! I'm Edgar</h2><img src="./assets/wave.gif" width="48" />
 <!--<p width="100%" align="center">Former Accountancy Major, Self-Taught & Aspiring Software Engineer.</p>-->
 
 <pre align="center">
@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 ██║░░██║███████╗███████╗███████╗╚█████╔╝╚█║  ░░╚██╔╝░╚██╔╝░╚█████╔╝██║░░██║███████╗██████╔╝
 ╚═╝░░╚═╝╚══════╝╚══════╝╚══════╝░╚════╝░░╚╝  ░░░╚═╝░░░╚═╝░░░╚════╝░╚═╝░░╚═╝╚══════╝╚═════╝░
 </pre>
+
+
