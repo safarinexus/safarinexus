@@ -43,6 +43,7 @@ src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c913163
 <h2><img src="./assets/coffee.gif" width="20px" height="20px"> About Me</h2>
 <!--Background Point-->
 <h4><img src="./assets/background.gif" width="10px" height="10px"> Background</h4>
+<p>I am a Singapore Management University (SMU) graduate with the wrong degree (accountancy), now am Aspiring Software Engineer (Full-stack or Backend), because I really really love all things 💻 computers and technology and programming! I also really love ☕️ coffee , ⌨ mechanical keyboards, 📚 non-fiction books, 🏃🏻 running, 🧥 fashion  and 🧠 psychology.</p>
 <!-- Technologies Point-->
 <h4><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="10px" height="10px"> Technologies</h4>
 <!-- Technologies Icons-->
