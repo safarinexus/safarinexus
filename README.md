@@ -58,15 +58,19 @@ src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c913163
 	<li>See the rest of the technologies I've learnt <a href="https://github.com/safarinexus#-technologies">below</a></li>
 </ul>
 <!--learning subpoint-->
-<h6>🛠️ What I'm currently learning:</h6>
+<h6>📄 What I'm currently learning:</h6>
 <ul> 
 	<li>CI/CD, Containerization and React Native through <a href="https://fullstackopen.com/en/">Full Stack Open</a></li>
 	<li>CS Theory, through <a href="https://teachyourselfcs.com/">teachyourselfcs.com</a></li>
 </ul>
 <!--made subpoint--> 
-<h6>🪛 What I've made, all through my own learning:</h6>
+<h6>🔧 What I've made, all through my own learning:</h6>
 <ul>
 	<li>(Check out my repos <a href="https://github.com/safarinexus?tab=repositories">here!</a>)</li>
+</ul>
+<h6>🔨 What I'm currently tinkering with:</h6>
+<ul>
+	<li>A lightweight cross-platform unified journaling web app and journal data format!</li>
 </ul>
 <!-- Technologies Point-->
 <h4><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="10px" height="10px"> Technologies</h4>
