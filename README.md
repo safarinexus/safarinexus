@@ -95,7 +95,9 @@ src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c913163
 </ul>
 <!--github stats-->
 <div width="100%" align=center>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safarinexus&layout=compact&theme=dark&custom_title=My%20Languages" />
+	<a href="https://github.com/safarinexus?tab=repositories">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safarinexus&layout=compact&theme=dark&custom_title=My%20Languages" />
+	</a>
 </div>
 <!--animated header graphic ending-->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
