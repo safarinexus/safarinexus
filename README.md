@@ -50,7 +50,9 @@ src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c913163
 <h2><img src="./assets/coffee.gif" width="20px" height="20px"> About Me</h2>
 <!--Background Point-->
 <h4><img src="./assets/background.gif" width="10px" height="10px"> Background</h4>
-<p>I am a Singapore Management University (SMU) graduate with the wrong degree (accountancy), now I'm an aspiring Software Engineer (Backend), because I truly love all things 💻 computers and technology and programming! Ever since I decided not to pursue accounting as a career, I've taught myself programming, development, as well as computer science fundamentals. I also really love ☕️ coffee , ⌨ mechanical keyboards, 📚 non-fiction books, 🏃🏻 running, 🧥 fashion  and 🧠 psychology.</p>
+<p>I am a Singapore Management University (SMU) graduate with the wrong degree (accountancy), now I'm an aspiring Software Engineer (Backend).</p>
+
+<p>I truly love all things 💻 computers and technology and programming! Ever since I decided not to pursue accounting as a career, I've taught myself programming, development, as well as computer science fundamentals. I also really love ☕️ coffee , ⌨ mechanical keyboards, 📚 non-fiction books, 🏃🏻 running, 🧥 fashion  and 🧠 psychology.</p>
 <!--learnt subpoint--> 
 <h6>📝 What I've learnt:</h6>
 <ul> 
@@ -74,7 +76,7 @@ src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c913163
 </ul>
 <h6>🔨 What I'm currently tinkering with:</h6>
 <ul>
-	<li>A lightweight cross-platform unified journaling web app and journal data format!</li>
+	<li>My personal portfolio website/blog!</li>
 </ul>
 <!-- Technologies Point-->
 <h4><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="10px" height="10px"> Technologies</h4>
