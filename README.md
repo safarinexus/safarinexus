@@ -86,12 +86,12 @@ src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c913163
 <ul>
 	<li>Frontend:<br>
 		<a href="https://en.wikipedia.org/wiki/Front-end_web_development">
-			<img height="40px" src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react" />
+			<img height="40px" src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,sass" />
                 </a> 
 	</li>
 	<li>Backend:<br>
 		<a href="https://en.wikipedia.org/wiki/Frontend_and_backend#Backend_focused">
-		    <img height="40px" src="https://skillicons.dev/icons?i=c,cpp,java,python,flask,nodejs,express,bash,php,postgres,prisma,sqlite,redis" />
+		    <img height="40px" src="https://skillicons.dev/icons?i=c,cpp,java,python,flask,nodejs,express,bash,php,postgres,prisma,sqlite,redis,supabase" />
                 </a> 
 	</li>
 	<li>Developer Tools:<br>
