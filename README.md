@@ -60,10 +60,10 @@ src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c913163
 	<li>See the rest of the technologies I've learnt <a href="https://github.com/safarinexus#-technologies">below</a></li>
 </ul>
 <!--learning subpoint-->
-<h6>📈 What I'm currently learning:</h6>
+<h6>📈 What I'm currently learning/reading:</h6>
 <ul> 
 	<li>CI/CD, Containerization and React Native through <a href="https://fullstackopen.com/en/">Full Stack Open</a></li>
-	<li>CS Theory, through <a href="https://teachyourselfcs.com/">teachyourselfcs.com</a></li>
+	<li><a href="https://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf">The Algorithm Design Manual</a>, by Steven Skiena</li>
 </ul>
 <!--made subpoint--> 
 <h6>🔧 What I've made, all through my own learning:</h6>
