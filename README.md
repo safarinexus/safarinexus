@@ -72,7 +72,7 @@ src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c913163
 	<li><a href="https://odin-file-uploader-production-11ed.up.railway.app/">A Google Drive Clone</a></li>
 	<li><a href="https://overseas-phoebe-safarinexus-e4f74908.koyeb.app/">A mini message board app</a></li>
 	<li><a href="https://odin-projects-nine.vercel.app/">Memory card game!</a></li>
-	<li><a href="https://safarinexus.github.io/edgr_odin_projects/odin-js-weatherapp/index.html">The usual weather app</a></li>
+	<li><a href="https://safarinexus.github.io/edgr-odinprojects/odin-js-weatherapp/index.html">The usual weather app</a></li>
 	<li><a href="https://odin-shopping-page.vercel.app/">A React-made shopping site frontend</a></li>
 	<li>(Check out the rest of my stuff <a href="https://github.com/safarinexus?tab=repositories">here!</a>)</li>
 </ul>
