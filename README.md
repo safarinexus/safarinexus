@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="./assets/safarinexus.gif" width="100%" />
 </a>
 <!-- Hi there header -->
-<h2 align=center>Hi there! I'm <a href="https://edgr.vercel.app">Edgar</a><img src="./assets/wave.gif" width="20"/></h2>
+<h2 align=center>Hi there! I'm <a href="https://edgar-teong.vercel.app">Edgar</a><img src="./assets/wave.gif" width="20"/></h2>
 <!--profile view badge--> 
 <div width="100%" align=center>
 	<a href="https://github.com/safarinexus">
