@@ -50,7 +50,7 @@ src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c913163
 <h2><img src="./assets/coffee.gif" width="20px" height="20px"> About Me</h2>
 <!--Background Point-->
 <h4><img src="./assets/background.gif" width="10px" height="10px"> Background</h4>
-<p>I am in the midst of getting my Bachelor's from <a href="https://www.smu.edu.sg/"><span className="font-bold">Singapore Management University</span> in <span className="font-bold">Accountancy & Computer Science</span></a></p>
+<p>I am in the midst of getting my Bachelor's from <strong>Singapore Management University</strong> in <strong>Accountancy & Computer Science</strong></p>
 
 <p>I truly love all things 💻 computers and technology and programming! Ever since I decided not to pursue accounting as a career, I've taught myself programming, development, as well as computer science fundamentals. I also really love ☕️ coffee , ⌨ mechanical keyboards, 📚 non-fiction books, 🏃🏻 running, 🧥 fashion  and 🧠 psychology.</p>
 <!--learnt subpoint--> 
