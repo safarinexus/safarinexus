@@ -52,7 +52,10 @@ src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c913163
 <h4><img src="./assets/background.gif" width="10px" height="10px"> Background</h4>
 <p>I am in the midst of getting my Bachelor's from <strong>Singapore Management University</strong> in <strong>Accountancy & Computer Science</strong></p>
 
-<p>I truly love all things 💻 computers and technology and programming! Ever since I decided not to pursue accounting as a career, I've taught myself programming, development, as well as computer science fundamentals. I also really love ☕️ coffee , ⌨ mechanical keyboards, 📚 non-fiction books, 🏃🏻 running, 🧥 fashion  and 🧠 psychology.</p>
+<p>
+I am deeply passionate and self-driven. I taught myself programming from scratch and full stack web development with The Odin Project. It is one of my goals in life to be able to use my love for computers and technology to make a real difference to society through software.</p> 
+
+<p>When I'm not coding 💻, you'll find me making filter/espresso coffee ☕️, hanging with friends, enjoying obscure films, reading up about psychology/mental health stuff 🧠, or dancing at my school's hip-hop dance club.</p> 
 <!--learnt subpoint--> 
 <h6>📉 What I've learnt:</h6>
 <ul> 
