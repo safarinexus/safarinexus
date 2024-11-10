@@ -72,10 +72,9 @@ I am deeply passionate and self-driven. I taught myself programming from scratch
 <h6>🔧 What I've made, all through my own learning:</h6>
 <ul>
 	<li>A full-fledged <a href="https://github.com/safarinexus/edgr_odin_projects/tree/main/odin-node-express-REST-blog/backend">blog REST API</a>, with separate <a href="https://edgr-odin-blog-access.vercel.app/">post viewer frontend</a> and <a href="https://edgr-odin-blog-edit.vercel.app/">post editor frontend</a></li>
-	<li><a href="https://odin-file-uploader-production-11ed.up.railway.app/">A Google Drive Clone</a></li>
+	<li><a href="https://odin-fileuploader-production.up.railway.app/files">A Google Drive Clone</a></li>
 	<li><a href="https://overseas-phoebe-safarinexus-e4f74908.koyeb.app/">A mini message board app</a></li>
 	<li><a href="https://odin-projects-nine.vercel.app/">Memory card game!</a></li>
-	<li><a href="https://safarinexus.github.io/edgr-odinprojects/odin-js-weatherapp/index.html">The usual weather app</a></li>
 	<li><a href="https://odin-shopping-page.vercel.app/">A React-made shopping site frontend</a></li>
 	<li>(Check out the rest of my stuff <a href="https://github.com/safarinexus?tab=repositories">here!</a>)</li>
 </ul>
