@@ -50,7 +50,7 @@ src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c913163
 <h2><img src="./assets/coffee.gif" width="20px" height="20px"> About Me</h2>
 <!--Background Point-->
 <h4><img src="./assets/background.gif" width="10px" height="10px"> Background</h4>
-<p>I am in the midst of getting my Bachelor's from <strong>Singapore Management University</strong> in <strong>Accountancy & Computer Science</strong></p>
+<p>I am in the midst of getting my Bachelor's from <strong>Singapore Management University</strong> in <strong>Accountancy & Information Systems</strong></p>
 
 <p>
 I am deeply passionate and self-driven. I taught myself programming from scratch and full stack web development with The Odin Project. It is one of my goals in life to be able to use my love for computers and technology to make a real difference to society through software.</p> 
@@ -66,7 +66,7 @@ I am deeply passionate and self-driven. I taught myself programming from scratch
 <h6>📈 What I'm currently learning/reading:</h6>
 <ul> 
 	<li>CI/CD, Containerization and React Native through <a href="https://fullstackopen.com/en/">Full Stack Open</a></li>
-	<li><a href="https://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf">The Algorithm Design Manual</a>, by Steven Skiena</li>
+	<li><a href="https://www3.cs.stonybrook.edu/~skiena/373/videos/">CSE 373</a></li>
 </ul>
 <!--made subpoint--> 
 <h6>🔧 What I've made, all through my own learning:</h6>
