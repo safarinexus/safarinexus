@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- Hi there header -->
 <h2 align=center>
 	Hi there! I'm <a href="https://edgar-teong.vercel.app">Edgar</a><img src="./assets/wave.gif" width="20"/><br/>
-	Full Stack Developer at <a href="https://www.climateimpactx.com"><img src="./assets/cix.webp" width="20"/> Climate Impact X</a>
+	Software Engineer at <a href="https://www.climateimpactx.com"><img src="./assets/cix.webp" width="20"/> Climate Impact X</a>
 </h2>
 <!--profile view badge--> 
 <div width="100%" align=center>
@@ -53,7 +53,7 @@ src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c913163
 <h2><img src="./assets/coffee.gif" width="20px" height="20px"> About Me</h2>
 <!--Background Point-->
 <h4><img src="./assets/background.gif" width="10px" height="10px"> Background</h4>
-<p>I am a Full Stack Software Engineer at <strong>Climate Impact X</strong>. I graduated from <strong>Singapore Management University</strong> in 2024, with a Bachelor's in <strong>Accountancy & Information Systems</strong></p>
+<p>I am a Full Stack Developer at <strong>Climate Impact X</strong>. I graduated from <strong>Singapore Management University</strong> in 2024, with a Bachelor's in <strong>Accountancy & Information Systems</strong></p>
 
 <p>
 I am deeply passionate and self-driven. I taught myself programming from scratch and full stack web development with The Odin Project. It is one of my goals in life to be able to use my love for computers and technology to make a real difference to society through software.</p> 
@@ -103,7 +103,7 @@ I am deeply passionate and self-driven. I taught myself programming from scratch
 	<li>Developer Tools:<br>
 		<a href="https://en.wikipedia.org/wiki/Programming_tool">
                     <img height="40px"
-    src="https://skillicons.dev/icons?i=git,npm,figma,vite,webpack,jest,github,gitlab,gradle" />
+    src="https://skillicons.dev/icons?i=git,npm,figma,vite,webpack,jest,github,gitlab,gradle,aws" />
                 </a>
 	</li>
 </ul>
