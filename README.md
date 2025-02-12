@@ -97,12 +97,12 @@ I am deeply passionate and self-driven. I taught myself programming from scratch
 	</li>
 	<li>Backend:<br>
 		<a href="https://en.wikipedia.org/wiki/Frontend_and_backend#Backend_focused">
-		    <img height="80px" src="https://skillicons.dev/icons?i=java,python,go,nodejs,express,spring,postgres,prisma,redis,mongodb" />
+		    <img height="40px" src="https://skillicons.dev/icons?i=java,python,go,nodejs,express,spring,postgres,prisma,redis,mongodb" />
                 </a> 
 	</li>
 	<li>Developer Tools:<br>
 		<a href="https://en.wikipedia.org/wiki/Programming_tool">
-                    <img height="80px"
+                    <img height="40px"
     src="https://skillicons.dev/icons?i=git,npm,figma,vite,webpack,jest,github,gitlab,gradle" />
                 </a>
 	</li>
