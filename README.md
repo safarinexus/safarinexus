@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 <img src="./assets/safarinexus.gif" width="100%" />
 </a>
 <!-- Hi there header -->
-<h2 align=center>Hi there! I'm <a href="https://edgar-teong.vercel.app">Edgar</a><img src="./assets/wave.gif" width="20"/></h2>
+<h2 align=center>
+	Hi there! I'm <a href="https://edgar-teong.vercel.app">Edgar</a><img src="./assets/wave.gif" width="20"/><br/>
+	Fullstack Developer at <img src="./assets/cix.webp"/> <a href="https://www.climateimpactx.com">Climate Impact X</a>
+</h2>
 <!--profile view badge--> 
 <div width="100%" align=center>
 	<a href="https://github.com/safarinexus">
@@ -50,7 +53,7 @@ src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c913163
 <h2><img src="./assets/coffee.gif" width="20px" height="20px"> About Me</h2>
 <!--Background Point-->
 <h4><img src="./assets/background.gif" width="10px" height="10px"> Background</h4>
-<p>I am in the midst of getting my Bachelor's from <strong>Singapore Management University</strong> in <strong>Accountancy & Information Systems</strong></p>
+<p>I am a Fullstack Software Engineer at <strong>Climate Impact X</strong>. I graduated from <strong>Singapore Management University</strong> in 2024, with a Bachelor's in <strong>Accountancy & Information Systems</strong></p>
 
 <p>
 I am deeply passionate and self-driven. I taught myself programming from scratch and full stack web development with The Odin Project. It is one of my goals in life to be able to use my love for computers and technology to make a real difference to society through software.</p> 
@@ -72,6 +75,7 @@ I am deeply passionate and self-driven. I taught myself programming from scratch
 <h6>🔧 What I've made, all through my own learning:</h6>
 <ul>
 	<li>A full-fledged <a href="https://github.com/safarinexus/edgr_odin_projects/tree/main/odin-node-express-REST-blog/backend">blog REST API</a>, with separate <a href="https://edgr-odin-blog-access.vercel.app/">post viewer frontend</a> and <a href="https://edgr-odin-blog-edit.vercel.app/">post editor frontend</a></li>
+	<li><a href="https://www.edgar-teong.vercel.app">My own portfolio website and blog!</a></li>
 	<li><a href="https://odin-fileuploader-production.up.railway.app/files">A Google Drive Clone</a></li>
 	<li><a href="https://overseas-phoebe-safarinexus-e4f74908.koyeb.app/">A mini message board app</a></li>
 	<li><a href="https://odin-projects-nine.vercel.app/">Memory card game!</a></li>
@@ -80,7 +84,7 @@ I am deeply passionate and self-driven. I taught myself programming from scratch
 </ul>
 <h6>🔨 What I'm currently tinkering with:</h6>
 <ul>
-	<li>My personal portfolio website/blog!</li>
+	<li>My own journalling/mental health app!</li>
 </ul>
 <!-- Technologies Point-->
 <h4><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="10px" height="10px"> Technologies</h4>
@@ -88,18 +92,18 @@ I am deeply passionate and self-driven. I taught myself programming from scratch
 <ul>
 	<li>Frontend:<br>
 		<a href="https://en.wikipedia.org/wiki/Front-end_web_development">
-			<img height="40px" src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,sass" />
+			<img height="40px" src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,sass,nextjs" />
                 </a> 
 	</li>
 	<li>Backend:<br>
 		<a href="https://en.wikipedia.org/wiki/Frontend_and_backend#Backend_focused">
-		    <img height="40px" src="https://skillicons.dev/icons?i=c,cpp,java,python,flask,nodejs,express,bash,php,postgres,prisma,sqlite,redis,supabase" />
+		    <img height="80px" src="https://skillicons.dev/icons?i=c,cpp,java,python,go,flask,nodejs,express,spring,bash,php,postgres,prisma,sqlite,redis,supabase,mongodb" />
                 </a> 
 	</li>
 	<li>Developer Tools:<br>
 		<a href="https://en.wikipedia.org/wiki/Programming_tool">
-                    <img height="40px"
-    src="https://skillicons.dev/icons?i=git,npm,bun,figma,vscode,vercel,heroku,latex,postman,vite,vitest,webpack,jest" />
+                    <img height="80px"
+    src="https://skillicons.dev/icons?i=git,npm,bun,figma,vscode,vercel,heroku,latex,postman,vite,vitest,webpack,jest,github,gitlab,azure,gradle" />
                 </a>
 	</li>
 </ul>
