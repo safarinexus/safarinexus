@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 </a>
 <!-- Hi there header -->
 <h2 align=center>
-	Hi there! I'm <a href="https://edgar-teong.vercel.app">Edgar</a><img src="./assets/wave.gif" width="20"/><br/>
-	Software Engineer at <a href="https://www.climateimpactx.com"><img src="./assets/cix.webp" width="20"/> Climate Impact X</a>
+	Hi there! I'm <a href="https://edgar-teong.vercel.app">Edgar</a><img src="./assets/wave.gif" width="20"/></a>
 </h2>
 <!--profile view badge--> 
 <div width="100%" align=center>
