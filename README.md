@@ -61,13 +61,14 @@ Having graduated from Singapore Management University, I am currently a Full Sta
 <h6>📉 What I've learnt:</h6>
 <ul> 
 	<li>Full Stack Web Development through <a href="https://github.com/safarinexus/odin_projects">The Odin Project</a></li>
+	<li>CI/CD and Containerization through <a href="https://fullstackopen.com/en/">Full Stack Open</a></li>
 	<li>See the rest of the technologies I've learnt <a href="https://github.com/safarinexus#-technologies">below</a></li>
 </ul>
 <!--learning subpoint-->
 <h6>📈 What I'm currently learning/reading:</h6>
 <ul> 
-	<li>CI/CD, Containerization and React Native through <a href="https://fullstackopen.com/en/">Full Stack Open</a></li>
 	<li><a href="https://www3.cs.stonybrook.edu/~skiena/373/videos/">CSE 373</a></li>
+	<li><a href="https://tira.mooc.fi/spring-2025/chap01/">University of Helsinki's Data Structures & Algorithms MOOC</a></li>
 </ul>
 <!--made subpoint--> 
 <h6>🔧 What I've made, all through my own learning:</h6>
