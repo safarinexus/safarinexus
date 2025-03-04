@@ -46,7 +46,7 @@ src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c913163
 </pre>
 <!--Animated text--> 
 <div width=100% align=center> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&duration=2000&color=00A91A&center=true&vCenter=true&random=true&width=250&lines=Software+Engineer;Fullstack+Developer;Former+Accountant;Coffee+Enthusiast;Keyboard+Enthusiast;Avid+Reader;Self-Taught" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&duration=2000&color=00A91A&center=true&vCenter=true&random=true&width=250&lines=Software+Engineer;Full+Stack+Developer;Espresso+Enthusiast;Avid+Reader;Film+Buff;Keyboard+Tinkerer;" alt="Typing SVG" /></a>
 </div>
 <!--About me Header-->
 <h2><img src="./assets/coffee.gif" width="20px" height="20px"> About Me</h2>
