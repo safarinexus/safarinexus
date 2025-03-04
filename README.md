@@ -102,7 +102,7 @@ Having graduated from Singapore Management University, I am currently a Full Sta
 	<li>Developer Tools:<br>
 		<a href="https://en.wikipedia.org/wiki/Programming_tool">
                     <img height="40px"
-    src="https://skillicons.dev/icons?i=git,npm,vite,webpack,jest,github,gitlab,gradle,aws,docker" />
+    src="https://skillicons.dev/icons?i=git,npm,vite,webpack,jest,github,gitlab,gradle,aws,azure,docker" />
                 </a>
 	</li>
 </ul>
