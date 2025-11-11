@@ -57,20 +57,26 @@ Having graduated from Singapore Management University, I am currently a Full Sta
 </p>
 
 <p>When I'm not coding, you'll find me going for a nice run 🏃‍➡️, making filter/espresso coffee ☕️, hanging with friends 🎉, enjoying some films 🍿, tinkering with my split ergonomic keyboards 👐🏻, reading up about psychology/mental health stuff 📚, or dancing at my school's hip-hop dance club 🕺🏻.</p> 
+
 <!--learnt subpoint--> 
+<!--
 <h6>📉 What I've learnt:</h6>
 <ul> 
 	<li>Full Stack Web Development through <a href="https://github.com/safarinexus/odin_projects">The Odin Project</a></li>
 	<li>CI/CD and Containerization through <a href="https://fullstackopen.com/en/">Full Stack Open</a></li>
 	<li>See the rest of the technologies I've learnt <a href="https://github.com/safarinexus#-technologies">below</a></li>
 </ul>
+-->
 <!--learning subpoint-->
+<!--
 <h6>📈 What I'm currently learning/reading:</h6>
 <ul> 
 	<li><a href="https://www3.cs.stonybrook.edu/~skiena/373/videos/">CSE 373</a></li>
 	<li><a href="https://tira.mooc.fi/spring-2025/chap01/">University of Helsinki's Data Structures & Algorithms MOOC</a></li>
 </ul>
+-->
 <!--made subpoint--> 
+<!--
 <h6>🔧 What I've made, all through my own learning:</h6>
 <ul>
 	<li>A full-fledged <a href="https://github.com/safarinexus/edgr_odin_projects/tree/main/odin-node-express-REST-blog/backend">blog REST API</a>, with separate <a href="https://edgr-odin-blog-access.vercel.app/">post viewer frontend</a> and <a href="https://edgr-odin-blog-edit.vercel.app/">post editor frontend</a></li>
@@ -85,6 +91,7 @@ Having graduated from Singapore Management University, I am currently a Full Sta
 <ul>
 	<li>My own journalling/mental health app!</li>
 </ul>
+-->
 <!-- Technologies Point-->
 <h4><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="10px" height="10px"> Technologies</h4>
 <!-- Technologies Icons-->
