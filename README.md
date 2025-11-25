@@ -53,7 +53,7 @@ src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c913163
 <!--Background Point-->
 <h4><img src="./assets/background.gif" width="10px" height="10px"> Background</h4>
 <p>
-Having graduated from Singapore Management University, I am currently a Software Engineer<strong></strong>.  I am deeply passionate and fiercely self-driven. I love all things technology and building solutions for problems. It is one of my goals in life to be able to use that love to make a real difference to society through software. 
+Having graduated from Singapore Management University, I am currently a Backend Engineer at <a href="https://www.foodpanda.com/about-foodpanda/"><strong>foodpanda</strong></a>.  I am deeply passionate and fiercely self-driven. I love all things technology and building solutions for problems. It is one of my goals in life to be able to use that love to make a real difference to society through software. 
 </p>
 
 <p>When I'm not coding, you'll find me going for a nice run 🏃‍➡️, making filter/espresso coffee ☕️, hanging with friends 🎉, enjoying some films 🍿, tinkering with my split ergonomic keyboards 👐🏻, reading up about psychology/mental health stuff 📚, or dancing at my school's hip-hop dance club 🕺🏻.</p> 
