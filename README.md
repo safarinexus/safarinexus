@@ -53,7 +53,7 @@ src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c913163
 <!--Background Point-->
 <h4><img src="./assets/background.gif" width="10px" height="10px"> Background</h4>
 <p>
-Having graduated from Singapore Management University, I am currently a Backend Engineer at <strong><a href="https://www.foodpanda.com/about-foodpanda/">foodpanda</a> (<a href="https://www.deliveryhero.com/">Delivery Hero</a></strong>). I've worked in a variety of companies, using a wide range of technologies to build innovative, performant and scalable solutions for complex technical problems across large-scale distribution.
+Having graduated from Singapore Management University, I am currently a Backend Engineer at <strong><a href="https://www.foodpanda.com/about-foodpanda/">foodpanda</a> (<a href="https://www.deliveryhero.com/">Delivery Hero</a></strong>). I've worked in a variety of companies, using a wide range of technologies to build innovative, performant and scalable solutions for complex technical problems across large-scale distributed systems.
 </p>
 
 <p>When I'm not coding, you'll find me going for a nice run 🏃‍➡️, making filter/espresso coffee ☕️, hanging with friends 🎉, enjoying some films 🍿, tinkering with my split ergonomic keyboards 👐🏻, reading up about psychology/mental health stuff 📚, or dancing at my school's hip-hop dance club 🕺🏻.</p> 
