@@ -103,7 +103,7 @@ Having graduated from Singapore Management University, I am currently a Backend 
 	</li>
 	<li>Backend:<br>
 		<a href="https://en.wikipedia.org/wiki/Frontend_and_backend#Backend_focused">
-		    <img height="40px" src="https://skillicons.dev/icons?i=java,python,go,nodejs,express,spring,postgres,prisma,redis,mongodb" />
+		    <img height="40px" src="https://skillicons.dev/icons?i=go,python,java,nodejs,express,spring,postgres,prisma,redis,mongodb" />
                 </a> 
 	</li>
 	<li>Developer Tools:<br>
@@ -114,11 +114,13 @@ Having graduated from Singapore Management University, I am currently a Backend 
 	</li>
 </ul>
 <!--github stats-->
+<!--
 <div width="100%" align=center>
 	<a href="https://github.com/safarinexus?tab=repositories">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safarinexus&layout=compact&theme=dark&custom_title=My%20Languages" />
 	</a>
 </div>
+-->
 <!--animated header graphic ending-->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
 <h1></h1>
