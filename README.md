@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Header Photo -->
-<a href="https://edgr.vercel.app">
+<a href="https://edgar-teong.vercel.app">
 <img src="./assets/safarinexus.gif" width="100%" />
 </a>
 <!-- Hi there header -->
