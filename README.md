@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <!-- Header Photo -->
 <a href="https://edgar-teong.vercel.app">
-<img src="./assets/safarinexus.gif" width="100%" />
+<img src="./assets/edgargle.gif" width="100%" />
 </a>
 <!-- Hi there header -->
 <h2 align=center>
