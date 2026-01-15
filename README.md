@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <summary>Boo! Click here for more</summary>
 <!--animated header graphic open-->
 <img 
-src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c91316391381cefc5e0c9b309a75fba/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3131302673656374696f6e3d686561646572" width="100%"/>
+src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%"/>
 <!-- ASCII Art -->
 <pre>
  ___  ___   _______    ___        ___        ________           ___       __    ________   ________   ___        ________   ___       
